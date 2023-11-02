@@ -5,8 +5,6 @@ Data Analysis with Python | Course | IBM
 |[Completed File](https://github.com/wy-chan/Data-Analysis-with-Python-Final-Project/blob/main/Final%20Project%20Completed%20House_Sales_in_King_Count_USA-20231003-1696291200.jupyterlite.ipynb)|
 | - |
 
-<br>
-
 <!-- TABLE OF CONTENTS -->
 ### Table of Contents:
 
