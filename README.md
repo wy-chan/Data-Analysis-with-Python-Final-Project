@@ -6,27 +6,27 @@ Data Analysis with Python | Course | IBM
 <!-- TABLE OF CONTENTS -->
 ### Table of Contents:
 
-Module 1: Importing Data Sets
+<b>Module 1: Importing Data Sets</b>
 
 - [Question 1](#Q1)
   
-Module 2: Data Wrangling
+<b>Module 2: Data Wrangling</b>
 
 - [Question 2](#Q2)
   
-Module 3: Exploratory Data Analysis
+<b>Module 3: Exploratory Data Analysis</b>
 
 - [Question 3](#Q3)
 - [Question 4](#Q4)
 - [Question 5](#Q5)
   
-Module 4: Model Development
+<b>Module 4: Model Development</b>
 
 - [Question 6](#Q6)
 - [Question 7](#Q7)
 - [Question 8](#Q8)
   
-Module 5: Model Evaluation and Refinement
+<b>Module 5: Model Evaluation and Refinement</b>
 
 - [Question 9](#Q9)
 - [Question 10](#Q10)
@@ -39,7 +39,7 @@ Module 5: Model Evaluation and Refinement
   
 - [x] <b>Question 1 - Display the data types of each column using the attribute dtypes, then take a screenshot and submit it. Include your code in the image.</b>
   
-  |![data types](/Final%20Project%20-%20Screenshots/Q1.png)|
+  |![data types](Final%20Project%20-%20Screenshots/Q1.png)|
   |-|
   
 </div>
