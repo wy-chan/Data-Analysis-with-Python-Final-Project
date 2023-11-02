@@ -2,7 +2,7 @@ Data Analysis with Python | Course | IBM
 # Data-Analysis-with-Python-Final-Project
 <br>
 
-|[Completed File](https://github.com/wy-chan/Data-Analysis-with-Python-Final-Project/blob/main/Final_Project_Completed.ipynb)|
+|&rarr; [Completed File](https://github.com/wy-chan/Data-Analysis-with-Python-Final-Project/blob/main/Final_Project_Completed.ipynb)|
 | - |
 
 ---
