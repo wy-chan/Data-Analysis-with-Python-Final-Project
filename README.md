@@ -1,18 +1,27 @@
 # Data-Analysis-with-Python-Final-Project
 
 Module 1: Importing Data Sets
+
 - Question 1
+- 
 Module 2: Data Wrangling
+
 - Question 2
+  
 Module 3: Exploratory Data Analysis
+
 - Question 3
 - Question 4
 - Question 5
+  
 Module 4: Model Development
+
 - Question 6
 - Question 7
 - Question 8
+  
 Module 5: Model Evaluation and Refinement
+
 - Question 9
 - Question 10
 
