@@ -39,7 +39,7 @@ Data Analysis with Python | Course | IBM
   
 - [x] <b>Question 1 - Display the data types of each column using the attribute dtypes, then take a screenshot and submit it. Include your code in the image.</b>
   
-  |![data types](Final%20Project%20-%20Screenshots/Q1.png)|
+  |![data types](Q1.png)|
   |-|
   
 </div>
