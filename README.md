@@ -1,5 +1,9 @@
 Data Analysis with Python | Course | IBM
 # Data-Analysis-with-Python-Final-Project
+<br>
+
+|[Completed File](https://github.com/wy-chan/Data-Analysis-with-Python-Final-Project/blob/main/Final%20Project%20Completed%20House_Sales_in_King_Count_USA-20231003-1696291200.jupyterlite.ipynb)|
+| - |
 
 <br>
 
@@ -51,6 +55,9 @@ Data Analysis with Python | Course | IBM
   
 - [x] <b>Question 2 - Drop the columns "id" and "Unnamed: 0" from axis 1 using the method drop(), then use the method describe() to obtain a statistical summary of the data. Take a screenshot and submit it, make sure the inplace parameter is set to True</b>
   
+  |![data types](Final%20Project%20-%20Screenshots/Q02.png)|
+  |-|
+  
 </div>
 
 ---
@@ -60,6 +67,9 @@ Data Analysis with Python | Course | IBM
   
 - [x] <b>Question 3 - Use the method value_counts to count the number of houses with unique floor values, use the method .to_frame() to convert it to a dataframe.</b>
 
+  |![data types](Final%20Project%20-%20Screenshots/Q03.png)|
+  |-|
+  
 
 </div>
 
@@ -67,11 +77,17 @@ Data Analysis with Python | Course | IBM
   
 - [x] <b>Question 4 - Use the function boxplot in the seaborn library to determine whether houses with a waterfront view or without a waterfront view have more price outliers.</b>
   
+  |![data types](Final%20Project%20-%20Screenshots/Q04.png)|
+  |-|
+  
 </div>
 
 <div id="Q5">
   
 - [x] <b>Question 5 - Use the function regplot in the seaborn library to determine if the feature sqft_above is negatively or positively correlated with price.</b>
+  
+  |![data types](Final%20Project%20-%20Screenshots/Q05.png)|
+  |-|
   
 </div>
 
@@ -82,6 +98,9 @@ Data Analysis with Python | Course | IBM
   
 - [x] <b>Question 6 - Fit a linear regression model to predict the 'price' using the feature 'sqft_living' then calculate the R^2. Take a screenshot of your code and the value of the R^2.</b>
   
+  |![data types](Final%20Project%20-%20Screenshots/Q06.png)|
+  |-|
+  
 </div>
 
 ---
@@ -90,6 +109,9 @@ Data Analysis with Python | Course | IBM
 <div id="Q7">
   
 - [x] <b>Question 7 - Fit a linear regression model to predict the 'price' using the list of features:</b>
+  
+  |![data types](Final%20Project%20-%20Screenshots/Q07.png)|
+  |-|
   
 </div>
 
@@ -100,13 +122,19 @@ Data Analysis with Python | Course | IBM
   
 - [x] <b>Question 8 - Use the list to create a pipeline object to predict the 'price', fit the object using the features in the list features, and calculate the R^2.</b>
  
----
- 
+  |![data types](Final%20Project%20-%20Screenshots/Q08.png)|
+  |-|
+   
 </div>
+
+---
 
 <div id="Q9">
   
 - [x] <b>Question 9 - Create and fit a Ridge regression object using the training data, set the regularization parameter to 0.1, and calculate the R^2 using the test data.</b>
+  
+  |![data types](Final%20Project%20-%20Screenshots/Q09a.png)|
+  |-|
   
 </div>
 
@@ -115,5 +143,8 @@ Data Analysis with Python | Course | IBM
 <div id="Q10">
   
 - [x] <b>Question 10 - Perform a second order polynomial transform on both the training data and testing data. Create and fit a Ridge regression object using the training data, set the regularisation parameter to 0.1, and calculate the R^2 utilising the test data provided. Take a screenshot of your code and the R^2.</b>
+  
+  |![data types](Final%20Project%20-%20Screenshots/Q10.png)|
+  |-|
   
 </div>
